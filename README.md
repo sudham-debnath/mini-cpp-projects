@@ -1,4 +1,8 @@
 # Mini Projects with C++
+- Login System
+- Tic-Tac-Toe Game
+- Scissor-Paper-Rock Game
+
 
 ## 1. Login System -
   ![](https://i.ytimg.com/vi/yo3ImzEwP50/maxresdefault.jpg)
